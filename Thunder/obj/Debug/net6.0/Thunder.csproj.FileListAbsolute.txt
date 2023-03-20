@@ -1,0 +1,12 @@
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.csproj.AssemblyReference.cache
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.AssemblyInfoInputs.cache
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.AssemblyInfo.cs
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.csproj.CoreCompileInputs.cache
+C:\github\Thunder\Thunder\bin\Debug\net6.0\Thunder.deps.json
+C:\github\Thunder\Thunder\bin\Debug\net6.0\Thunder.dll
+C:\github\Thunder\Thunder\bin\Debug\net6.0\Thunder.pdb
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.dll
+C:\github\Thunder\Thunder\obj\Debug\net6.0\refint\Thunder.dll
+C:\github\Thunder\Thunder\obj\Debug\net6.0\Thunder.pdb
+C:\github\Thunder\Thunder\obj\Debug\net6.0\ref\Thunder.dll

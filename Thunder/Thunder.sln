@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thunder", "Thunder.csproj", "{24FCC15B-B571-4FDD-B314-C50EFF73E891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thunder.Tests", "..\Thunder.Tests\Thunder.Tests.csproj", "{98CFA7DE-2AE3-4475-820B-A97DD79DCB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FCC15B-B571-4FDD-B314-C50EFF73E891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FCC15B-B571-4FDD-B314-C50EFF73E891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FCC15B-B571-4FDD-B314-C50EFF73E891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FCC15B-B571-4FDD-B314-C50EFF73E891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CFA7DE-2AE3-4475-820B-A97DD79DCB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CFA7DE-2AE3-4475-820B-A97DD79DCB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CFA7DE-2AE3-4475-820B-A97DD79DCB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CFA7DE-2AE3-4475-820B-A97DD79DCB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B4E8DC9-D549-4D4C-8B1F-442C499EAAAF}
+	EndGlobalSection
+EndGlobal
